@@ -1,4 +1,4 @@
-# project1-
+# promotional website
 Festival seasonal promotional website is done based on request of one of my friend.
 project link:https://astonishing-malasada-839d9d.netlify.app/
 ![image](https://user-images.githubusercontent.com/106692695/213871683-26dfdb02-d280-4586-bc98-cb92545ca110.png)
